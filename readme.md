@@ -9,7 +9,7 @@
 
 ## Project Installation
 
-Make a test1 database file in mysql database
+Make a "test1" database file in mysql database
 then Run :
          - "Php artisan serve"
          - "Php artisan migrate"
